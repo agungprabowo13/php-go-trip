@@ -22,7 +22,7 @@
             <li class="mb-2"><a href="#">Contact Us</a></li>
             <li class="mb-2"><a href="#">FAQs</a></li>
         </ul>
-        <a href="#" class="btn">Register</a>
+        <a href="register.php" class="btn">Register</a>
         <ul class="hidden gap-4 absolute top-20 left-0 bg-white  px-10 w-full py-6" id="menu">
             <li class="mb-2"><a href="index.php" class="text-blue-400">Home</a></li>
             <li class="mb-2"><a href="#">About</a></li>
